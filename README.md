@@ -1,0 +1,2 @@
+# fire_detect
+Using YOLOv5 for flame detection can save photos and warning information JSON files of flames, detect and recognize license plates of parked vehicles, and also transmit the detected information in post format, with image information transmitted in base64 format. The alarm cycle, detection area, weekly detection time, and interval time of detection frames can be customized for alerts.
